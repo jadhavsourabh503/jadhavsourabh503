@@ -1,7 +1,10 @@
 ![MasterHead](https://camo.githubusercontent.com/0bc88fe1a37c792f8a62e1b770b0b39e886405c1043d59a43fd0a7c27c2688b2/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966)
-<h1 align="center">Hi 👋, I'm Sourabh Jadhav</h1>
+<h1>💫About me:</h1>
+<p>Hello! My name is Sourabh Jadhav & creating things that live on the internet is a passion. A passionate Developer 👨‍💻, with strong administrative 🗂️ & technical skills 🗣️, good attention to detail 🔍 & the ability to write efficient code 💻. Specializing in crafting pixel-perfect designs 🎨 and implementing responsive layouts 📱 to deliver seamless and visually appealing websites 🌐.</p>
+<p>Contact me: jadhavsourabh503@gmail.com</p>
+<p>Visit My Portfolio: https://portfolio-mu-nine-59.vercel.app/</p>
+
 <h3 align="center">A passionate frontend developer And MERN stack developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jadhavsourabh503&label=Profile%20views&color=0e75b6&style=flat" alt="jadhavsourabh503" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jadhavsourabh503" alt="jadhavsourabh503" /></a> </p>
