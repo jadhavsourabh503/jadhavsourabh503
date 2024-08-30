@@ -26,3 +26,5 @@ Visit My Portfolio: <a href="https://portfolio-mu-nine-59.vercel.app/"> https://
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jadhavsourabh503&show_icons=true&locale=en" alt="jadhavsourabh503" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jadhavsourabh503&" alt="jadhavsourabh503" /></p>
+<h2></h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jadhavsourabh503&label=Profile%20views&color=0e75b6&style=flat" alt="jadhavsourabh503" /> </p>
